@@ -1,4 +1,0 @@
-language: ruby
-rbm:
-  - "2.1.1"
-  script: bundle exec rake spec
